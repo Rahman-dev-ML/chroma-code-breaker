@@ -15,7 +15,7 @@
 
 ### 2) Create app in App Store Connect
 - Platforms: iOS
-- Name: `Chroma` (or your Play Store name)
+- Name: `Chroma Code Breaker` (plain "Chroma" is taken on the App Store)
 - Primary Language: English (U.S.)
 - Bundle ID: `com.chroma.codebreaker`
 - SKU: `chroma`
