@@ -17,7 +17,7 @@ workflows:
         XCODE_PROJECT: "App.xcodeproj"
         XCODE_SCHEME: "App"
         # Replace with numeric Apple ID from App Store Connect → App Information
-        APP_STORE_APPLE_ID: 0000000000
+        APP_STORE_APPLE_ID: 6825898644
       node: 22
       xcode: latest
     scripts:
